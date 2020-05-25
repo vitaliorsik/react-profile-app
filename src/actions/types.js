@@ -1,0 +1,2 @@
+export const TOGGLE_SIDEBAR = 'TOGGLE_SIDEBAR';
+export const GET_PROFILE = 'GET_PROFILE';
